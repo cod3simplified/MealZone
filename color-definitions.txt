@@ -1,0 +1,7 @@
+primary color: #c8a97e
+white color: #ffffff
+white light color: #fafafa
+grey light color: #b7b1ad
+black color: #000000
+black dark color: #333333
+black light color: #717171
