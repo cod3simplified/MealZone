@@ -5,3 +5,7 @@ grey light color: #b7b1ad
 black color: #000000
 black dark color: #333333
 black light color: #717171
+
+These colors were added by T2G Sep to Dec 2025
+They said this project is awesome
+They also said they would like to take this project far.
